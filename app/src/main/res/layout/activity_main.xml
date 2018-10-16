@@ -29,7 +29,7 @@
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-light"
         android:padding="20dp"
-        android:text="Happy Birthday, Ben!"
+        android:text="Hi, KODE!"
         android:textColor="@android:color/white"
         android:textSize="36sp" />
 
@@ -40,7 +40,7 @@
         android:layout_alignParentRight="true"
         android:fontFamily="sans-serif-light"
         android:padding="20dp"
-        android:text="From, Lyla!"
+        android:text="From, Anatolij!"
         android:textColor="@android:color/white"
         android:textSize="36sp" />
 
